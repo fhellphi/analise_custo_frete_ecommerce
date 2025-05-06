@@ -2,7 +2,7 @@
 
 ## 🧰 Ferramentas utilizadas
 - Sql
-- Looker Studio
+- PowerBI
 
 ## 📁 Estrutura do projeto
 - 'data/': dados para analise
